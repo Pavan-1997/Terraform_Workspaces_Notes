@@ -7,3 +7,6 @@ Workspaces in Terraform are simply independently managed state files. A workspac
 - Workspaces isolate Terraform state. It is a best practice to have separate state per environment. Workspaces are technically equivalent to renaming your state file.
 - Workspaces ensure that the environments are isolated and mirrored.
 - Workspaces are the successor to old Terraform Environments.
+
+---
+# Implementation
