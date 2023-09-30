@@ -18,7 +18,7 @@ terraform init
 ```
 terraform apply 
 ```
-To apply a particular tfvars use below
+To apply a particular tfvars (stage.tfvars) use below
 ```
 terraform apply -var-file=stage.tfvars
 ```
