@@ -10,3 +10,15 @@ Workspaces in Terraform are simply independently managed state files. A workspac
 
 ---
 # Implementation
+
+If only one environment
+```
+terraform init   
+```
+```
+terraform apply 
+```
+To apply a particular tfvars use below
+```
+terraform apply -var-file=stage.tfvars
+```
