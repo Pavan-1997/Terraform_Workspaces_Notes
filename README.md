@@ -36,6 +36,7 @@ terraform workspace new stage
 ```
 terraform workspace new prod
 ```
+![image](https://github.com/Pavan-1997/Terraform_Workspaces_Notes/assets/32020205/3a33f0d3-d0ba-436a-a2bc-05052de376bb)
 
 
 2. To switch to a particular workspace
@@ -56,6 +57,7 @@ terraform init
 ```
 terraform apply
 ```
+![image](https://github.com/Pavan-1997/Terraform_Workspaces_Notes/assets/32020205/d0d43aad-7d59-452d-80a3-05bb050be1e1)
 
 
 4. Now switch to a different workspace
@@ -70,3 +72,8 @@ terraform apply
 ```
 
 Similarly, you can perform for prod
+
+![image](https://github.com/Pavan-1997/Terraform_Workspaces_Notes/assets/32020205/fe68d4e9-43d8-4196-8bdc-826560e6ae33)
+
+![image](https://github.com/Pavan-1997/Terraform_Workspaces_Notes/assets/32020205/b77455ff-c5c2-4c3a-a5b1-844824058fc7)
+
