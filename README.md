@@ -75,5 +75,7 @@ Similarly, you can perform for prod
 
 ![image](https://github.com/Pavan-1997/Terraform_Workspaces_Notes/assets/32020205/fe68d4e9-43d8-4196-8bdc-826560e6ae33)
 
+Below image you can see the Instances created for each environment
+
 ![image](https://github.com/Pavan-1997/Terraform_Workspaces_Notes/assets/32020205/b77455ff-c5c2-4c3a-a5b1-844824058fc7)
 
