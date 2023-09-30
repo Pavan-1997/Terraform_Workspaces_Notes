@@ -16,6 +16,9 @@ If only one environment
 terraform init   
 ```
 ```
+terraform plan
+```
+```
 terraform apply 
 ```
 To apply a particular tfvars (stage.tfvars) use below
